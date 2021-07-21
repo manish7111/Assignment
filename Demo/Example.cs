@@ -6,5 +6,9 @@ namespace Demo
 {
     class Example
     {
+        public static void Add()
+        {
+
+        }
     }
 }
